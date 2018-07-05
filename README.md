@@ -1,2 +1,2 @@
 # Responsive Photo Gallery
-[responsivepage](photogallery.surge.sh)
+[responsivepage](http://photogallery.surge.sh)
